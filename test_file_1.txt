@@ -1,18 +1,1 @@
-ijfnwjnkwjn
-important code
-ksdfnksjdfkjn
-ksdjnkdsnksdn
-ewfjnwefjlwehjb
-specific spot
-
-
-git init
-git add
-git status
-git commit -m "xxx my message xxx"
-
-
-kjwenkwefjn
-
-kjnwefknwekjn
-kdvjnknwej
+Sebastian is the best
